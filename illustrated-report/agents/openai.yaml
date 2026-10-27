@@ -1,0 +1,4 @@
+interface:
+  display_name: "图文可读报告"
+  short_description: "将项目、研究和实验材料写成结论清楚、图文相互解释的可读报告"
+  default_prompt: "使用 $illustrated-report，把这些材料整理成图文结合、容易理解的报告；保留证据与适用边界，并交付可编辑源文件。"
